@@ -3,7 +3,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/minghanqin/LangSplat.git --recursive
+git clone https://github.com/branyang02/3dEdits.git --recursive
 ```
 
 2. Install dependencies
